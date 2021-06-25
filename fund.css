@@ -1,0 +1,290 @@
+* {
+     box-sizing: border-box;
+}
+
+body{
+     margin: 0;
+     padding: ;
+     width: 100%;
+     box-sizing: border-box;
+}
+.main-header{
+width: 100%;
+background: #E5E5E5;
+display: inline-block
+}
+.content{
+display: inline-block;
+vertical-align: middle;
+margin-left: 20%;
+text-decoration: none;
+}
+.contents{
+     list-style: none;
+     display: inline-block;
+     margin: 19px;
+     padding: 5px 0;
+     list-style: none;
+     text-decoration: none;
+     font-weight: bold;
+     font-family:-apple-system, BlinkMacSystemFont, 
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 18px;
+     line-height: 128%;
+     order: 1;
+     margin: 0px 24px;
+ }
+ .contents a{
+      text-decoration: none;
+      color: #00CCCA;
+      position: static;
+width: 55px;
+height: 23px;
+font-weight: bold;
+font-size: 18px;
+line-height: 128%;
+margin: 0px 24px;
+ }
+.contents button{
+     margin-left: 30px;
+     color: white;
+     background-color: #00CCCA;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     padding: 15px 20px;
+      position: absolute;
+     left: 77.75%;
+     right: 8.33%;
+     top: 2.5%;
+     bottom: 95%;
+     background: #00CCCA;
+     border-radius: 7px;
+}
+.don-{
+     color: white;
+     background-color: #00CCCA;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     padding: 5px 15px;
+     margin-left: 90px;
+     margin-top: 30px;
+     font-weight: bold;
+background: #00CCCA;
+border-radius: 7px;  
+}
+.para{
+     position:;
+     width: 1200px;
+     height: 127px;
+     left: 120px;
+     top: 158px;
+     margin: auto;
+     margin-bottom: 20px;
+     font-family:-apple-system, BlinkMacSystemFont, 
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 36px;
+     line-height: 43px;
+     text-align: center;
+     color: #121212;
+
+}
+.class-kids{
+     position: absolute;
+     width: 488px;
+     height: 513px;
+     left: 180px;
+     top: 333px;
+     border-radius: 7px;
+
+}
+.first-pix{
+ position: absolute;
+width: 486px;
+height: 172px;
+left: 730px;
+top: 480px;
+font-family:-apple-system, BlinkMacSystemFont, 
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+'Open Sans', 'Helvetica Neue', sans-serif ;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #121212;
+
+}
+.window-kids{ 
+position: absolute;
+width: 488px;
+height: 513px;
+left: 780px;
+top: 886px;
+border-radius: 7px;
+}
+.sec-pix{
+position: absolute;
+width: 486px;
+height: 172px;
+left: 270px;
+top: 1040px;
+font-family:-apple-system, BlinkMacSystemFont, 
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #121212;
+}
+.footer{
+     position: absolute;
+     width: 100%;
+     height: 425px;
+     left: 0px;
+     top: 1529px;
+     background: #97BAE3;
+}
+.inp{
+ height: 60px;
+width: 400px;
+left: 412px;
+border-radius: 7px;
+position: absolute;
+left: 28.61%;
+right: 43.61%;
+top: 19.54%;
+bottom: 70.95%;
+background: #FFFFFF;
+border-radius: 7px;
+}
+input ::placeholder{
+ position: absolute;
+left: 29.72%;
+right: 57.08%;
+top: 19.52%;
+bottom: 75.32%;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #888888;
+
+}
+.sub{
+     display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 15px;
+
+position: absolute;
+left: 57.5%;
+right: 28.61%;
+top: 16.17%;
+bottom: 71.91%;
+background: #00CCCA;
+border-radius: 7px;
+height: 56px;
+width: 200px;
+top: 76px;
+padding: 10px, 15px, 10px, 15px;
+
+}
+.our-{
+height: 186px;
+width: 183px;
+left: 429px;
+/* top: 169px; */
+position: absolute;
+width: 183px;
+height: 186px;
+left: 440px;
+top: 160px;
+
+font-family: -apple-system, BlinkMacSystemFont, 
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 128%;
+letter-spacing: 0.01em;
+color: #000000;
+}
+.need-{
+height: 217px;
+width: 207px;
+left: 734px;
+position: absolute;
+top: 160px;
+font-family:-apple-system, BlinkMacSystemFont, 
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+ 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 128%;
+color: #000000;
+letter-spacing: 0.01em;
+
+}
+.con{
+     position: absolute;
+     width: 102px;
+     height: 31px;
+     left: 1067px;
+     top: 160px;
+     font-family: -apple-system, BlinkMacSystemFont, 
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+      'Open Sans', 'Helvetica Neue', sans-serif;
+     font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 128%
+}
+.link{
+     height: 50px;
+width: 50px;
+left: 1067px;
+top: 232px;
+border-radius: 10px;
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1067px;
+top: 232px;
+}
+.twit{
+     position: absolute;
+width: 50px;
+height: 50px;
+left: 1110px;
+top: 232px;
+
+}
+.face{
+     position: absolute;
+width: 50px;
+height: 50px;
+left: 1160px;
+top: 232px
+}
+.enve{
+     position: absolute;
+     width: 50px;
+     height: 50px;
+     left: 1200px;
+     top: 235px;   
+}
+/* @tush you can add the logo and make any other adjustments, Thank you */
